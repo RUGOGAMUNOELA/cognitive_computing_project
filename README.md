@@ -108,12 +108,12 @@ cognitive_recommender/
 │   └── feedback.json          # User feedback storage
 │
 ├── docs/                      # Documentation
-│   ├── problem_analysis.md    # Scenario analysis
-│   ├── implementation_plan.md # Project plan & WBS
-│   ├── evaluation_report.md   # Performance evaluation
-│   ├── ethical_analysis.md    # Ethics assessment
-│   ├── final_report.md        # Comprehensive report
-│   └── presentation.md        # Presentation slides
+│   ├── problem_analysis.pdf   # Scenario analysis
+│   ├── implementation_plan.pdf # Project plan & WBS
+│   ├── evaluation_report.pdf   # Performance evaluation
+│   ├── ethical_analysis.pdf    # Ethics assessment
+│   ├── BRAIN_SPARKS_REPORT_.pdf        # Comprehensive report
+│   └── presentation_slides.ppt        # Presentation slides
 │
 ├── notebooks/                 # Jupyter notebooks
 │   ├── data_pipeline.ipynb    # Data exploration
