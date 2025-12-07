@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "description": "User feedback storage for Brain Sparks Learning System",
+    "version": "1.0",
+    "note": "This file stores anonymous feedback to improve recommendations - no personal data collected"
+  },
+  "feedback_entries": [
+    {
+      "resource_id": "general",
+      "timestamp": "2025-12-02T00:08:35.102936",
+      "rating": 1,
+      "helpful": false,
+      "comment": "no explanations given",
+      "query": "Explain the basics of quantum computing and how it could help Uganda"
+    },
+    {
+      "resource_id": "FINTECH001",
+      "timestamp": "2025-12-04T12:49:58.659029",
+      "rating": 4,
+      "helpful": true,
+      "comment": "Everything is great",
+      "query": "How can cybersecurity protect mobile money users in Uganda?"
+    },
+    {
+      "resource_id": "HEALTH001",
+      "timestamp": "2025-12-04T12:59:14.012811",
+      "rating": 4,
+      "helpful": false,
+      "comment": "I asked about digital health and yet the quiz talks about machine learning so it's irrelevant\n",
+      "query": "What is artificial intelligence and how can it help healthcare?"
+    }
+  ]
+}

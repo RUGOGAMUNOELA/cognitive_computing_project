@@ -1,0 +1,88 @@
+id,title,type,difficulty,topic,duration_minutes,difficulty_score,type_score,num_tags,num_subtopics,num_uganda_tags,uganda_focus_score
+QC001,Introduction to Quantum Computing: Qubits and Superposition,article,beginner,quantum_computing,15,1,1,5,4,3,4.71
+QC002,Quantum Computing for Problem Solving,video,intermediate,quantum_computing,25,2,2,4,4,4,5.54
+QC003,Quantum Computing Fundamentals Quiz,quiz,beginner,quantum_computing,10,1,3,4,4,2,3.15
+ML001,Machine Learning Fundamentals: A Practical Introduction,article,beginner,machine_learning,30,1,1,5,4,4,5.55
+ML002,Supervised Learning: Classification and Regression,video,intermediate,machine_learning,45,2,2,4,4,3,4.42
+ML003,Machine Learning for Agriculture,article,intermediate,machine_learning,40,2,1,5,4,3,4.84
+ML004,Machine Learning Assessment Quiz,quiz,intermediate,machine_learning,15,2,3,3,3,2,2.9
+DS001,Data Science with Python: From Zero to Analysis,article,beginner,data_science,35,1,1,4,4,4,5.4399999999999995
+DS002,Data Visualization Best Practices,video,intermediate,data_science,30,2,2,4,4,4,5.57
+AI001,Introduction to Artificial Intelligence,article,beginner,artificial_intelligence,25,1,1,4,4,4,5.54
+AI002,Natural Language Processing Fundamentals,video,intermediate,artificial_intelligence,40,2,2,4,4,4,5.53
+AI003,Computer Vision for Beginners,article,intermediate,artificial_intelligence,35,2,1,4,4,4,5.63
+CS001,Introduction to Cybersecurity,article,beginner,cybersecurity,30,1,1,4,4,4,5.5600000000000005
+CS002,Ethical Hacking and Penetration Testing,video,advanced,cybersecurity,60,3,2,4,4,4,5.62
+WD001,"Web Development Fundamentals: HTML, CSS, JavaScript",article,beginner,web_development,45,1,1,5,4,4,5.68
+WD002,Responsive Design for Mobile-First Africa,video,intermediate,web_development,35,2,2,5,4,4,5.46
+WD003,Backend Development with Python Flask,article,intermediate,web_development,50,2,1,4,4,4,5.36
+CC001,Cloud Computing Essentials,article,beginner,cloud_computing,30,1,1,4,4,4,5.73
+CC002,Serverless Computing with AWS Lambda,video,intermediate,cloud_computing,40,2,2,4,4,3,4.65
+DB001,Database Fundamentals: SQL and Relational Databases,article,beginner,databases,40,1,1,4,4,4,5.38
+DB002,NoSQL Databases: MongoDB and Beyond,video,intermediate,databases,35,2,2,4,4,4,5.36
+IOT001,Internet of Things: Connecting the Physical World,article,beginner,internet_of_things,30,1,1,4,4,4,5.5
+IOT002,Smart Agriculture with IoT,video,intermediate,internet_of_things,45,2,2,5,4,4,5.55
+BC001,Blockchain Fundamentals: Beyond Cryptocurrency,article,beginner,blockchain,35,1,1,4,4,4,5.75
+BC002,Smart Contracts with Solidity,video,advanced,blockchain,55,3,2,4,4,3,4.35
+PROG001,Python Programming for Beginners,article,beginner,programming,50,1,1,4,4,4,5.62
+PROG002,Java Programming Essentials,video,beginner,programming,60,1,2,4,4,4,5.35
+PROG003,JavaScript Modern Development,article,intermediate,programming,45,2,1,4,4,4,5.54
+HEALTH001,Digital Health: Technology Transforming Healthcare,article,beginner,digital_health,30,1,1,4,4,4,5.64
+HEALTH002,AI in Medical Diagnosis,video,intermediate,digital_health,40,2,2,4,3,4,5.57
+FINTECH001,Financial Technology: Mobile Money and Beyond,article,beginner,fintech,30,1,1,4,4,4,5.54
+FINTECH002,Building Payment APIs and Integrations,video,intermediate,fintech,45,2,2,4,4,3,4.53
+EDTECH001,Educational Technology: Designing Learning Experiences,article,beginner,educational_technology,35,1,1,4,4,4,5.51
+EDTECH002,Building Learning Management Systems,video,intermediate,educational_technology,50,2,2,4,4,3,4.38
+ENV001,Technology for Environmental Sustainability,article,beginner,environmental_tech,30,1,1,4,4,4,5.61
+ENV002,Remote Sensing and GIS for Conservation,video,intermediate,environmental_tech,45,2,2,4,4,4,5.43
+ETHICS001,Ethics in Technology and AI,article,beginner,technology_ethics,30,1,1,4,4,4,5.53
+ETHICS002,Building Fair and Inclusive AI Systems,video,intermediate,technology_ethics,40,2,2,4,4,3,4.66
+STARTUP001,Tech Entrepreneurship in Africa,article,beginner,entrepreneurship,35,1,1,4,4,4,5.46
+STARTUP002,Product Development and MVP Building,video,intermediate,entrepreneurship,40,2,2,4,4,3,4.24
+DT001,Design Thinking for Innovation,article,beginner,design_thinking,30,1,1,4,4,3,4.59
+DT002,Human-Centered Design for Development,video,intermediate,design_thinking,40,2,2,4,4,4,5.41
+PM001,Project Management for Tech Teams,article,beginner,project_management,35,1,1,4,4,4,5.32
+PM002,Leading Remote and Distributed Teams,video,intermediate,project_management,35,2,2,4,4,3,4.28
+QC004,Quantum Computing Applications in Africa,article,advanced,quantum_computing,30,3,1,4,4,4,5.73
+ML005,Deep Learning Fundamentals,video,advanced,machine_learning,60,3,2,4,4,3,4.71
+API001,Building RESTful APIs,article,intermediate,web_development,40,2,1,4,4,4,5.46
+DEVOPS001,DevOps Fundamentals,video,intermediate,devops,45,2,2,4,4,3,4.54
+TEST001,Software Testing Essentials,article,intermediate,software_quality,35,2,1,4,4,3,4.66
+MOBILE001,Mobile App Development with React Native,video,intermediate,mobile_development,55,2,2,4,4,4,5.75
+ML006,Machine Learning Explained Simply,video,beginner,machine_learning,20,1,2,4,3,3,4.34
+ML007,Neural Networks and Deep Learning,video,intermediate,machine_learning,30,2,2,4,3,2,3.17
+ML008,Python Machine Learning Tutorial,video,beginner,machine_learning,45,1,2,4,3,3,4.12
+ML009,Machine Learning Quiz: Fundamentals,quiz,beginner,machine_learning,10,1,3,4,3,2,3.0700000000000003
+DS003,Data Science with Python: Complete Course,video,intermediate,data_science,60,2,2,4,5,3,4.27
+DS004,Data Analysis with Pandas,video,intermediate,data_science,40,2,2,4,3,2,3.2800000000000002
+DS005,Data Science Quiz: Python and Analysis,quiz,intermediate,data_science,15,2,3,4,3,2,2.95
+AI004,What is Artificial Intelligence?,video,beginner,artificial_intelligence,15,1,2,4,3,3,4.0
+AI005,Natural Language Processing with Python,video,intermediate,artificial_intelligence,50,2,2,4,3,3,4.09
+AI006,Computer Vision Tutorial,video,intermediate,artificial_intelligence,45,2,2,4,3,3,4.18
+AI007,AI Ethics and Responsible AI,article,beginner,artificial_intelligence,25,1,1,4,4,3,4.17
+WD004,HTML & CSS Full Course for Beginners,video,beginner,web_development,70,1,2,4,4,3,4.12
+WD005,JavaScript Crash Course,video,beginner,web_development,50,1,2,4,4,3,4.1899999999999995
+WD006,React.js Full Course for Beginners,video,intermediate,web_development,80,2,2,4,4,3,4.05
+WD007,"Web Development Quiz: HTML, CSS, JavaScript",quiz,beginner,web_development,12,1,3,4,4,2,2.99
+CS003,Cybersecurity Fundamentals,video,beginner,cybersecurity,35,1,2,4,4,3,4.16
+CS004,Network Security Essentials,article,intermediate,cybersecurity,40,2,1,4,4,2,3.15
+CS005,Cybersecurity Quiz: Threats and Protection,quiz,intermediate,cybersecurity,12,2,3,4,3,2,2.79
+PROG004,Python for Beginners - Full Course,video,beginner,programming,60,1,2,4,4,3,4.4399999999999995
+PROG005,Python Data Structures and Algorithms,video,intermediate,programming,45,2,2,4,4,3,4.17
+BC003,Blockchain Technology Explained,video,beginner,blockchain,25,1,2,4,3,3,4.33
+BC004,Blockchain Quiz: Fundamentals,quiz,beginner,blockchain,10,1,3,4,3,2,2.93
+IOT003,IoT for Beginners,video,beginner,internet_of_things,30,1,2,4,4,3,4.07
+CC003,AWS Cloud Computing Full Course,video,intermediate,cloud_computing,90,2,2,4,5,3,4.02
+DB003,SQL Tutorial for Beginners,video,beginner,databases,50,1,2,4,4,3,4.05
+DB004,Database Design and Normalization,article,intermediate,databases,35,2,1,4,4,3,3.89
+HEALTH003,Telemedicine and Digital Health Solutions,video,intermediate,digital_health,35,2,2,4,3,3,4.27
+FINTECH003,Mobile Money and Financial Inclusion,article,intermediate,fintech,30,2,1,4,4,3,4.2
+EDTECH003,Building Online Learning Platforms,video,intermediate,educational_technology,55,2,2,4,3,3,4.11
+ENV003,Climate Technology Solutions,article,beginner,environmental_tech,30,1,1,4,4,3,4.25
+STARTUP003,Tech Startup Funding in Africa,article,intermediate,entrepreneurship,35,2,1,4,4,3,4.17
+PM003,Agile Project Management,video,intermediate,project_management,40,2,2,4,4,3,4.0600000000000005
+DT003,Design Thinking Workshop,video,intermediate,design_thinking,50,2,2,4,4,3,4.15
+ETHICS003,AI Bias and Fairness,article,intermediate,technology_ethics,35,2,1,4,4,3,4.25
+DEVOPS002,Docker and Containerization,video,intermediate,devops,50,2,2,4,4,3,4.05
+TEST002,Test-Driven Development (TDD),video,intermediate,software_quality,40,2,2,4,4,3,4.08
+MOBILE002,Flutter Mobile App Development,video,intermediate,mobile_development,60,2,2,4,4,3,4.09
