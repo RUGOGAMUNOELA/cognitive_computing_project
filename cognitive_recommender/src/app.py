@@ -60,6 +60,26 @@ st.set_page_config(
 # ============================================================
 # CUSTOM CSS - Red, White, and Blue Theme
 # ============================================================
+st.markdown("""
+<style>
+
+/* Hide the Streamlit top toolbar */
+[data-testid="stToolbar"] {
+    visibility: hidden !important;
+}
+
+/* Remove the dark theme background/header */
+header[data-testid="stHeader"] {
+    background: transparent !important;
+}
+
+/* Remove shadow/border from header */
+header[data-testid="stHeader"]::before {
+    background: transparent !important;
+}
+
+</style>
+""", unsafe_allow_html=True)
 
 st.markdown("""
 <style>
@@ -1430,20 +1450,7 @@ def render_about_page():
         """, unsafe_allow_html=True)
     
     # Ethics
-    st.markdown("Ethical Considerations")
-    st.markdown("""
-    <div class="result-card">
-        <h4>Privacy</h4>
-        <p>No personal data collected. Feedback is anonymous.</p>
-        
-        <h4>Cultural Appropriateness</h4>
-        <p>Content includes Uganda-specific examples and applications.</p>
-        
-        <h4>Bias & Fairness</h4>
-        <p>Diverse sources, balanced topic coverage, no demographic profiling.</p>
-    </div>
-    """, unsafe_allow_html=True)
-    
+
     # Creator
     st.markdown("Creator")
     st.markdown("""
